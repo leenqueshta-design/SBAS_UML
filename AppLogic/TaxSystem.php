@@ -28,4 +28,5 @@ class TaxSystem {
         return $amount * $rate;
     }
 }
+
 ?>
