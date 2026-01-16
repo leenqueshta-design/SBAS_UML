@@ -27,7 +27,7 @@ Logic: Allows users to create invoices, select customers, and add products with 
 Tax Engine: A dedicated system to calculate taxes based on different rules (Standard/Reduced).
 Files: `InvoiceForm.php`, `InvoiceManager.php`, `TaxSystem.php`, `InvoiceDB.php`.
 
----
+
 
 System Architecture
 The project is organized into a Layered Architecture to ensure clean code and maintainability:
