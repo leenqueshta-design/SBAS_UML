@@ -49,4 +49,5 @@ class UserDB {
         return [false, null];
     }
 }
+
 ?>
