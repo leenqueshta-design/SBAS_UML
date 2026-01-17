@@ -41,4 +41,5 @@ class InvoiceDB {
         return $invoiceId;
     }
 }
+
 ?>
